@@ -1,0 +1,12 @@
+.header{
+    width: 100%;
+}
+
+.navbar{
+        display: inline-block;
+        margin-left: 10rem;
+}
+.icon-bar{
+    width: 300px;
+    font-size: 30px;
+}
