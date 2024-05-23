@@ -9,7 +9,7 @@ const Header = () => {
 
   return (
     <>
-    <div className='fixed h-24 flex text-[#556F5F]'>
+    <div className='header-container  fixed h-24 flex text-[#556F5F]'>
         <div className='header bg-[#ffffff] flex'>
            <div className='Logo flex p-8'>
              <img className='h-8 w-50 ' src={Logo} alt="" />
