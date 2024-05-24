@@ -119,6 +119,10 @@
 
 .footer-links{
     height: 200px;
-    width: 1150px;
+    width: 1200px;
     border-top: 1px solid #556F5F;
+}
+
+.copyright{
+    margin-top: -80px;
 }
