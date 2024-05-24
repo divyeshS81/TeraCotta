@@ -1,0 +1,8 @@
+.product-main-container{
+    border: 1px solid black;
+    height: 700px;
+}
+.product-inner-container{
+    border: 1px solid black;
+    height: 550px;
+}

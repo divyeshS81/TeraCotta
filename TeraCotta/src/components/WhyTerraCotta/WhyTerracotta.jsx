@@ -14,7 +14,7 @@ const WhyTerracotta = () => {
         <div className='Title text-center font-bold text-4xl '>Why <span className='text-[#556F5F] '>TerraCotta ?</span></div>
         <div className='desc text-center mt-5 text-lg text-[#556F5F]'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus, magnam?</div>
         <div className='inner-container mt-5'>
-            <div className='inner-container2 flex space-x-8 justify-center pt-10 '>
+            <div className='inner-container2 flex space-x-2 justify-center pt-10 '>
                 <div className='card'>
                     <img src={Dtruck} alt="" className='card-image top-0 h-16' />
                     <p className='card-title text-xl ml-3 mt-3'>Free Delivery Worldwide</p>
