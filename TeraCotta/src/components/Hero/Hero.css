@@ -1,0 +1,25 @@
+.hero-container {
+    width: 100%;
+    height: 620px;
+    display: grid;
+    margin-top: 100px;
+}
+.waves {
+    transform: rotate(180deg);
+}
+
+.Hero-content{
+    width: 700px; 
+}
+
+.btn{
+    width: 700px;
+}
+
+.shop{
+    border-radius: 30px;
+}
+
+.gif2{
+    margin-left: 540px;
+}

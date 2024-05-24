@@ -18,7 +18,7 @@ const Footer = () => {
         <Wave
           fill="#E5EDE9"
           paused={false}
-          style={{ display: "flex", height:"700px",  width : "1510px ", marginTop:"100px" }}
+          style={{ display: "flex", height:"700px",  width : "1519px ", marginTop:"100px" }}
           options={{height: 40, amplitude: 60, speed: 0.30,points: 3, }}
         />
           <div className=" footer-name text-[#556F5F] absolute flex top-20 mt-36 ml-48">
