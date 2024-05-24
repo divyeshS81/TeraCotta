@@ -1,0 +1,13 @@
+.WhyTerracotta-container{  
+    height: 400px;
+    width: 100%;
+}
+.inner-container2{  
+    height: 300px;
+}
+.card{ 
+    height: 240px;
+    width: 300px;
+    box-shadow: 0 3px 15px #00000012;   
+    border-radius: 20px;
+}
