@@ -27,7 +27,7 @@ const Hero = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Non a
               obcaecati laudantium possimus ratione cumque.
             </p>
-            <div className="uppercase btn ml-0 flex justify-center text-center pt-10">
+            <div className="uppercase btn ml-0 hover:bg-transparent flex justify-center text-center pt-10">
               <div className="shop h-10 w-36 p-2 relative -ml-28 bg-white text-[#556F5F]">
                 shop now</div>
               <div className="read shop h-10 w-36 p-2 absolute ml-[130px] bg-[#556F5F] text-white ">Read more </div>

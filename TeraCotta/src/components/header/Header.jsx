@@ -9,7 +9,7 @@ const Header = () => {
 
   return (
     <>
-    <div className='header-container  fixed h-24 flex text-[#556F5F]'>
+    <div className='header-container bg-[#ffffff] fixed h-24 text-[#556F5F]'>
         <div className='header bg-[#ffffff] flex'>
            <div className='Logo flex p-8'>
              <img className='h-8 w-50 ' src={Logo} alt="" />
@@ -24,11 +24,12 @@ const Header = () => {
             </ul>
           </div>
           <div className='icon-bar  ml-36'>
-            <ul className='flex p-8 space-x-8'>
-              <li><CiSearch /></li>
-              <li><GoPerson /></li> 
-              <li><CiHeart /></li>
-              <li><BsCart2/></li>
+            <ul className='flex p-8 space-x-8 '>
+              <li className='cursor-pointer'><CiSearch /></li>
+              <li className='cursor-pointer'><GoPerson /></li> 
+              <li className='cursor-pointer'><CiHeart /></li>
+              <li className='cursor-pointer'><BsCart2/></li>
+
             </ul>
           </div>
         </div>

@@ -2,7 +2,7 @@
     width: 100%;
     height: 620px;
     display: grid;
-    margin-top: 100px;
+    margin-top: 70px;
 }
 .waves {
     transform: rotate(180deg);
