@@ -3,7 +3,7 @@ import Header from './components/header/Header'
 import Footer from "./components/Footer/Footer"
 import Hero from "./components/Hero/Hero"
 import WhyTerracotta from './components/WhyTerraCotta/WhyTerracotta'
-import Product from './components/Product/Product'
+import Products from './components/Product/Product2'
 
 function App() {
 
@@ -13,7 +13,7 @@ function App() {
      <Header/>
       <Hero />
       <WhyTerracotta />
-      <Product />
+       <Products />
      <Footer />
     </>
   )
