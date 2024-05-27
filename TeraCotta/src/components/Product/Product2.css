@@ -1,0 +1,9 @@
+.product-cards .product-image img {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+  
+  .product-cards:hover .product-image img {
+    transform: scale(1.05);
+    opacity: 0.9;
+  }
+  
