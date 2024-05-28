@@ -12,23 +12,23 @@ const CompanyLogos = () => {
     <>
         <div className='CompanyLogos-main-container mt-32'>
             <div className='CompanyLogos-inner-container flex justify-center space-x-10'>
-            <div className='CompanyLogos-container rounded-[100%]'>
-                 <img src={CompanyLogo1} alt=""  className='companyLogos-image mt-6 ml-8 transition-transform duration-1000 ease-in-out transform hover:rotate-180  overflow-clip '/>
+            <div className='CompanyLogos-container rounded-[100%] hover:rotate-180 transition-transform duration-1000 ease-in-out transform  overflow-clip'>
+                 <img src={CompanyLogo1} alt=""  className='companyLogos-image mt-6 ml-8 '/>
             </div>
-            <div className='CompanyLogos-container rounded-[100%]'>
-                 <img src={CompanyLogo2} alt=""  className='companyLogos-image mt-6 ml-8 transition-transform duration-1000 ease-in-out transform hover:rotate-180  overflow-clip'/>
+            <div className='CompanyLogos-container rounded-[100%] transition-transform duration-1000 ease-in-out transform hover:rotate-180  overflow-clip'>
+                 <img src={CompanyLogo2} alt=""  className='companyLogos-image mt-6 ml-8 '/>
             </div>
-            <div className='CompanyLogos-container rounded-[100%]'>
-                 <img src={CompanyLogo3} alt=""  className='companyLogos-image mt-6 ml-8 transition-transform duration-1000 ease-in-out transform hover:rotate-90  overflow-clip'/>
+            <div className='CompanyLogos-container rounded-[100%] transition-transform duration-1000 ease-in-out transform hover:rotate-90  overflow-clip'>
+                 <img src={CompanyLogo3} alt=""  className='companyLogos-image mt-6 ml-8 '/>
             </div>
-            <div className='CompanyLogos-container rounded-[100%]'>
-                 <img src={CompanyLogo4} alt=""  className='companyLogos-image mt-6 ml-8 transition-transform duration-1000 ease-in-out transform hover:rotate-90  overflow-clip'/>
+            <div className='CompanyLogos-container rounded-[100%]  transition-transform duration-1000 ease-in-out transform hover:rotate-90  overflow-clip'>
+                 <img src={CompanyLogo4} alt=""  className='companyLogos-image mt-6 ml-8'/>
             </div>
-            <div className='CompanyLogos-container rounded-[100%]'>
-                 <img src={CompanyLogo5} alt=""  className='companyLogos-image mt-6 ml-8 transition-transform duration-1000 ease-in-out transform hover:rotate-90  overflow-clip'/>
+            <div className='CompanyLogos-container rounded-[100%] transition-transform duration-1000 ease-in-out transform hover:rotate-90  overflow-clip'>
+                 <img src={CompanyLogo5} alt=""  className='companyLogos-image mt-6 ml-8 '/>
             </div>
-            <div className='CompanyLogos-container rounded-[100%]'>
-                 <img src={CompanyLogo6} alt=""  className='companyLogos-image mt-6 ml-8  transition-transform duration-1000 ease-in-out transform hover:rotate-90  overflow-clip'/>
+            <div className='CompanyLogos-container rounded-[100%]  transition-transform duration-1000 ease-in-out transform hover:rotate-90  overflow-clip'>
+                 <img src={CompanyLogo6} alt=""  className='companyLogos-image mt-6 ml-8 '/>
             </div>
             </div>
         </div>
