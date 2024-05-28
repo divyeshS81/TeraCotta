@@ -1,0 +1,11 @@
+.CompanyLogos-main-container{
+    height: 200px;
+    width: 100%;
+
+    
+}
+.CompanyLogos-container{
+    height: 200px;
+    width: 200px;
+    box-shadow: 2px 2px 16px -11px #0000008c;
+}

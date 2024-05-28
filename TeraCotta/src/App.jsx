@@ -7,6 +7,7 @@ import Products from './components/Product/Product2'
 import Category from './components/Category/Category'
 import ClientSay from './components/ClientSay/ClientSay'
 import Story from './components/Story/Story'
+import CompanyLogos from './components/CompanyLogos/CompanyLogos'
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
        <Category />
        <ClientSay />
        <Story />
+       <CompanyLogos />
      <Footer />
     </>
   )
