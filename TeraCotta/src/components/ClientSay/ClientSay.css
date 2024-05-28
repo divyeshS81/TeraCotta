@@ -1,0 +1,8 @@
+.ClientSay-main-conatiner{
+    height: 520px;
+}
+.ClientSay-inner-container{
+    box-shadow: 2px 3px 43px -18px #00000026;
+    height: 300px;
+    width: 400px;
+}

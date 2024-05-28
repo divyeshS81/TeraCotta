@@ -4,6 +4,8 @@ import Footer from "./components/Footer/Footer"
 import Hero from "./components/Hero/Hero"
 import WhyTerracotta from './components/WhyTerraCotta/WhyTerracotta'
 import Products from './components/Product/Product2'
+import Category from './components/Category/Category'
+import ClientSay from './components/ClientSay/ClientSay'
 
 function App() {
 
@@ -14,6 +16,8 @@ function App() {
       <Hero />
       <WhyTerracotta />
        <Products />
+       <Category />
+       <ClientSay />
      <Footer />
     </>
   )
