@@ -21,8 +21,8 @@ const Story = () => {
                 <div className='line-dot h-3 w-3 rounded-full absolute end-28 mt-4 text-[#556F5F] hover:bg-orange-400' ><p className='text-[#556F5F] mt-3 -ml-2'>2023</p></div>
             </div>
             <div className='Story-image-conatiner flex justify-center space-x-10 mt-14'>
-                    <div className='Story-inner-container rounded-md '><img src={Story1} alt="" className='story-images rounded-md  hover:scale-105  '/></div>
-                    <div className='Story-inner-container'><img src={Story2} alt="" className='story-images rounded-md  hover:scale-105  '/></div>
+                    <div className='Story-inner-container'><img src={Story1} alt="" className='story-images rounded-md  hover:scale-105  '/></div>
+                    <div className='Story-inner-container '><img src={Story2} alt="" className='story-images rounded-md  hover:scale-105  '/></div>
                     <div className='Story-inner-container'><img src={Story3} alt="" className='story-images rounded-md  hover:scale-105  '/></div>
                     <div className='Story-inner-container'><img src={Story4} alt="" className='story-images rounded-md  hover:scale-105  '/></div>
             </div>

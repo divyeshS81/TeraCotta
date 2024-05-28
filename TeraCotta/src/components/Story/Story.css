@@ -7,6 +7,8 @@
 .Story-inner-container{
     height: 350px;
     width: 300px;
+    overflow-clip-margin: content-box;
+    overflow: clip;
 }
 .story-images{
     height: 100%;
@@ -14,4 +16,3 @@
     object-fit: cover; 
     transition: transform 1.5s ease-in-out;
 }
-
