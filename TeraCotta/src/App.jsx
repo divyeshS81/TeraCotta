@@ -8,6 +8,8 @@ import Category from './components/Category/Category'
 import ClientSay from './components/ClientSay/ClientSay'
 import Story from './components/Story/Story'
 import CompanyLogos from './components/CompanyLogos/CompanyLogos'
+import WorldOldCarft from './components/WorldOldCraft/WorldOldCarft'
+import TrendingProduct from './components/TrendingProduct/TrendingProduct'
 
 function App() {
 
@@ -19,8 +21,10 @@ function App() {
       <WhyTerracotta />
        <Products />
        <Category />
+       <WorldOldCarft />
        <ClientSay />
        <Story />
+       <TrendingProduct />
        <CompanyLogos />
      <Footer />
     </>

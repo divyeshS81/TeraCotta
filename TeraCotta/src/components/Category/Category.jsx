@@ -10,8 +10,8 @@ import CategoryImage6 from "../../assets/categoryImage6.webp";
 const Category = () => {
   return (
     <>
-    <div className='Category-main-container bg-[#fef7ec] mt-24'>
-      <div className='Category-title flex justify-center text-3xl font-bold'>Exclusive&nbsp;<span className='text-[#556F5F]'>Category</span> </div>
+    <div className='Category-main-container h-[550px] bg-[#fef7ec] mt-24'>
+      <div className='Category-title pt-[50px] flex justify-center text-3xl font-bold'>Exclusive&nbsp;<span className='text-[#556F5F]'>Category</span> </div>
       <div className='Category-desc flex justify-center text-lg mt-5 text-[#556F5F]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero quia atque sit.</div>
       <div className='Category-inner-container flex justify-center space-x-5 mt-28 '>
         <div className='Category-container relative rounded-3xl duration-1000 transition-colors hover:border-2 hover:border-[#eaeaea] '>
