@@ -6,6 +6,7 @@ import WhyTerracotta from './components/WhyTerraCotta/WhyTerracotta'
 import Products from './components/Product/Product2'
 import Category from './components/Category/Category'
 import ClientSay from './components/ClientSay/ClientSay'
+import Story from './components/Story/Story'
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
        <Products />
        <Category />
        <ClientSay />
+       <Story />
      <Footer />
     </>
   )

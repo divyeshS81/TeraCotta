@@ -1,0 +1,17 @@
+.Story-main-container{
+    height: 700px;
+}
+.line-dot{
+    border: 1px solid;
+}
+.Story-inner-container{
+    height: 350px;
+    width: 300px;
+}
+.story-images{
+    height: 100%;
+    width: 100%;
+    object-fit: cover; 
+    transition: transform 1.5s ease-in-out;
+}
+
