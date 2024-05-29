@@ -19,7 +19,7 @@ const FactQuerys = () => {
 
     return (
         <>
-            <div className='FactQuerys-main-container mt-32 h-[700px]'>
+            <div className='FactQuerys-main-container mt-32 h-[600px]'>
                 <div className='FactQuerys-title flex justify-center mt-10 text-3xl font-medium'>FAQ'&nbsp;<span className='text-[#556F5F]'>s</span></div>
                 <div className='FactQuerys-desc flex justify-center mt-5 text-lg text-[#556F5F]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero quia atque sit.</div>
                 <div className='FactQuerys-container  flex-col items-center mt-10 space-y-4 ml-[300px] w-[600px]'>  
@@ -41,7 +41,7 @@ const FactQuerys = () => {
                         </div>
                     ))}
                 </div>
-                <div className='FactQuerys-inner-conatiner -mt-[370px] rounded-md ml-[900px] h-[400px] w-[300px]'>
+                <div className='FactQuerys-inner-conatiner  -mt-[370px] rounded-md ml-[900px] h-[400px] w-[300px]'>
                    <img src={FaqsImage} alt="" className='FactQuerys-images rounded-md  hover:scale-105  '/>
                 </div>
             </div>

@@ -12,6 +12,7 @@ import WorldOldCarft from './components/WorldOldCraft/WorldOldCarft'
 import TrendingProduct from './components/TrendingProduct/TrendingProduct'
 import AllNewArrivals from './components/AllNewArrivals/AllNewArrivals'
 import FactQuerys from './components/Faq\'s/FactQuerys'
+import Blog from './components/Blog/Blog'
 
 function App() {
 
@@ -30,6 +31,7 @@ function App() {
        <CompanyLogos />
        <AllNewArrivals />
        <FactQuerys />
+       <Blog />
      <Footer />
     </>
   )

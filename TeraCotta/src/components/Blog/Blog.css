@@ -1,11 +1,16 @@
 
-.FactQuerys-inner-conatiner{
+.blod-border{
+    border: 1px solid gray;
+}
+
+
+.blog-image{
     overflow-clip-margin: content-box;
     overflow: clip;
 }
-.FactQuerys-images{
+.blog-images{
     height: 100%;
     width: 100%;
     object-fit: cover; 
-    transition: transform 1.5s ease-in-out;
+    transition: transform 1.5s ease-in-out;   
 }
