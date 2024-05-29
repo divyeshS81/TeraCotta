@@ -11,6 +11,7 @@ import CompanyLogos from './components/CompanyLogos/CompanyLogos'
 import WorldOldCarft from './components/WorldOldCraft/WorldOldCarft'
 import TrendingProduct from './components/TrendingProduct/TrendingProduct'
 import AllNewArrivals from './components/AllNewArrivals/AllNewArrivals'
+import FactQuerys from './components/Faq\'s/FactQuerys'
 
 function App() {
 
@@ -28,6 +29,7 @@ function App() {
        <TrendingProduct />
        <CompanyLogos />
        <AllNewArrivals />
+       <FactQuerys />
      <Footer />
     </>
   )

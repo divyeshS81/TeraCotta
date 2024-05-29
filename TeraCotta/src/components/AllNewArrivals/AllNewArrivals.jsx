@@ -13,13 +13,13 @@ const AllNewArrivals = () => {
 
                 <div className='AllNewArrivals-LeftImage rounded-2xl absolute flex justify-start left-0 mt-[240px] ml-[40px]  h-[230px] w-[180px]'>
                     <div className='AllNewArrivals-Images-container  ml-4 '>
-                        <img src={AllNewArrivalsImage} alt="" className='AllNewArrivals-Images absolute rounded-2xl  hover:scale-105'></img>
+                        <img src={AllNewArrivalsImage} alt="" className='AllNewArrivals-Images absolute rounded-2xl cursor-pointer  hover:scale-105'></img>
                     </div>
                 </div>
 
                 <div className='AllNewArrivals-LeftImage rounded-2xl absolute flex justify-start left-0 mt-[220px] ml-[240px]  h-[230px] w-[180px]'>
                     <div className='AllNewArrivals-Images-container ml-4  '>
-                         <img src={AllNewArrivalsImage1} alt="" className='AllNewArrivals-Images absolute rounded-2xl  hover:scale-105'></img>
+                         <img src={AllNewArrivalsImage1} alt="" className='AllNewArrivals-Images absolute rounded-2xl  cursor-pointer hover:scale-105'></img>
                     </div>
                 </div>
 
@@ -34,13 +34,13 @@ const AllNewArrivals = () => {
                 
                 <div className='AllNewArrivals-RightImage rounded-2xl absolute flex justify-start right-0 -mt-[70px] mr-[40px]  h-[230px] w-[180px]'>
                     <div className='AllNewArrivals-Images-container ml-4'>
-                        <img src={AllNewArrivalsImage} alt="" className='AllNewArrivals-Images absolute rounded-2xl  hover:scale-105'></img>
+                        <img src={AllNewArrivalsImage} alt="" className='AllNewArrivals-Images absolute rounded-2xl cursor-pointer  hover:scale-105'></img>
                     </div>
                 </div>
 
                 <div className='AllNewArrivals-RightImage rounded-2xl absolute flex justify-start right-0 -mt-[40px] mr-[240px]  h-[230px] w-[180px]'>
                     <div className='AllNewArrivals-Images-container ml-4'>
-                         <img src={AllNewArrivalsImage1} alt="" className='AllNewArrivals-Images absolute rounded-2xl  hover:scale-105'></img>
+                         <img src={AllNewArrivalsImage1} alt="" className='AllNewArrivals-Images absolute rounded-2xl cursor-pointer  hover:scale-105'></img>
                     </div>
                 </div>
 
