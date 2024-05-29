@@ -10,6 +10,7 @@ import Story from './components/Story/Story'
 import CompanyLogos from './components/CompanyLogos/CompanyLogos'
 import WorldOldCarft from './components/WorldOldCraft/WorldOldCarft'
 import TrendingProduct from './components/TrendingProduct/TrendingProduct'
+import AllNewArrivals from './components/AllNewArrivals/AllNewArrivals'
 
 function App() {
 
@@ -26,6 +27,7 @@ function App() {
        <Story />
        <TrendingProduct />
        <CompanyLogos />
+       <AllNewArrivals />
      <Footer />
     </>
   )

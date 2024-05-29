@@ -1,0 +1,11 @@
+
+.AllNewArrivals-Images{
+    height: 100%;
+    width: 100%;
+    object-fit: cover; 
+    transition: transform 1.5s ease-in-out;
+}
+.AllNewArrivals-Images-container{
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
