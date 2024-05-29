@@ -101,16 +101,16 @@ const TrendingProduct = () => {
                     rating={5}
                 />
                 <TrendingProductCard
-                    image={Image4}
-                    hoverImage={Image4Hover}
+                    image={Image3}
+                    hoverImage={Image3Hover}
                     title="Wert Art"
                     originalPrice="$80.00"
                     salePrice=""
                     rating={3}
                 />
                 <TrendingProductCard
-                    image={Image3}
-                    hoverImage={Image3Hover}
+                    image={Image4}
+                    hoverImage={Image4Hover}
                     title="The Craft"
                     originalPrice="$850"
                     salePrice="$750.00"
