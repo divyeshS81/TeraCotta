@@ -13,7 +13,7 @@ import "./Footer.css";
 
 const Footer = () => {
   return (
-    <div className="mt-20">
+    <div>
       <div className="relative"> 
         <Wave
           fill="#E5EDE9"
